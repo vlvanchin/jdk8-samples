@@ -11,4 +11,6 @@ public class Sample {
 	}
 	
 	public final Collection<@NotEmpty T> strings = new ArrayList<>(); 
+	
+
 }
